@@ -6,6 +6,6 @@ package demo;
  */
 public class ceshi {
     public static void main(String[] args) {
-        System.out.println("韩坤测试1");
+        System.out.println("韩坤测试2");
     }
 }
