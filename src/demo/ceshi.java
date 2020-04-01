@@ -2,12 +2,10 @@ package demo;
 
 /**
  * @author 韩坤
- * @create 2020-04-01-10:52
+ * @create 2020-04-01-21:40
  */
 public class ceshi {
     public static void main(String[] args) {
-        System.out.println("测dddd试");
-        System.out.prinln("韩坤4测试");
-
+        System.out.println("韩坤测试1");
     }
 }
