@@ -9,6 +9,5 @@ public class ceshi {
         System.out.println("测dddd试");
         System.out.println("韩坤2222222测试");
         System.out.println("第二次ffffffccff测试");
-        System.out.println("陈泽22222222");
     }
 }
